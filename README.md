@@ -38,7 +38,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=JasonFelgenhauer&show_icons=true&theme=dracula" alt="wakatime" />  
 </div>
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&show_icons=true&theme=dracula&langs_count=5" alt="langs" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&show_icons=true&theme=dracula&langs_count=5&count_private=true" alt="langs" />
 </div>
 
 
