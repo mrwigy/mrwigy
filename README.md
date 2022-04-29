@@ -3,8 +3,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jasonfelgenhauer&label=Profile%20views&color=0e75b6&style=flat" alt="jasonfelgenhauer" /> </p>
 
-<p align="center">🔭 I’m currently working on <a href="https://github.com/JasonFelgenhauer/movies-and-series" target="_blank">Movies & Series</a></p>
-
 <p align="center">👨‍💻 All of my projects are available at <a href="https://jason-fel.be" target="_blank">jason-fel.be</a></p>
 
 <p align="center">💬 Ask me about <b>Web development</b></p>
