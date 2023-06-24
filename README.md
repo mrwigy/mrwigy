@@ -7,7 +7,7 @@
 
 <p align="center">💬 Parlez moi de <b>développement web</b></p>
 
-<p align="center">📫 Comment me joindre <b>jasonfelgenhauer2003@gmail.com</b></p>
+<p align="center">📫 Comment me joindre <b>jasonfel1@outlook.be</b></p>
 
 
 <h3 align="center">Connectez-vous avec moi:</h3>
