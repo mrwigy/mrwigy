@@ -7,7 +7,7 @@
 
 <p align="center">📫 How to contact me <b>jasonfel1@outlook.be</b></p>
 
-<h3 align="center">Connect with me:</h3>
+<!--<h3 align="center">Connect with me:</h3>
 <p align="center">
 	<a href="https://codepen.io/Mr__Wigy" target="blank"
 		><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mr__wigy" height="30" width="40"
@@ -15,7 +15,7 @@
 	<a href="https://linkedin.com/in/jason-felgenhauer" target="blank"
 		><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jason-felgenhauer" height="30" width="40"
 	/></a>
-</p>
+</p> -->
 
 <h3 align="center">Skills</h3>
 <h4 align="center">Language</h4>
