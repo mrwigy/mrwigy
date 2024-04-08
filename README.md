@@ -3,7 +3,7 @@
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=jasonfelgenhauer&label=Profile%20views&color=0e75b6&style=flat" alt="jasonfelgenhauer" /></p>
 
-<p align="center">👨‍💻 All my projects are available here <a href="https://mrwigy.fr" target="_blank">Comming soon...</a></p>
+<p align="center">👨‍💻 All my projects are available here <a href="https://mrwigy.fr" target="_blank">mrwigy.fr</a></p>
 
 <p align="center">📫 How to contact me <b>jasonfel1@outlook.be</b></p>
 
